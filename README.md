@@ -1,6 +1,8 @@
 <!-- 顶部横幅 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=435&lines=凡心所向，素履所往；生如逆旅，一苇以航" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=435&lines=凡心所向，素履所往；生如逆旅，一苇以航" alt="Typing SVG" />
+  </a>
 </div>
 
 <h1 align="center">Hi 👋, I'm xmcchv</h1>
